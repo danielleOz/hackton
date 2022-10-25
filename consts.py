@@ -16,7 +16,7 @@ ASS_1 = {
     "vol_needed": 15
 }
 ASS_2 = {
-    "name": "graw in love",
+    "name": "grow in love",
     "skills": [SKILLS_LIST[2], SKILLS_LIST[4], SKILLS_LIST[6]],
     "diss": "entertain old people",
     "vol_num": 8,
