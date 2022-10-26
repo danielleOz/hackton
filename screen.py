@@ -9,9 +9,11 @@ app.configure(bg = "pink")
 sc_chose_ass=Tk()
 sc_chose_ass.title("show_assicon")
 sc_chose_ass.geometry("700x700+700+100")
+sc_chose_ass.configure(bg="black")
 
-def print_stars():
- print ("**************")
+
+
+
 
 # lblNum = Label(app, text="Please enter a number:", height = 10)
 # lblNum.pack()
