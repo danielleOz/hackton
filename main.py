@@ -10,7 +10,7 @@ def show_skills():
 print("hi, welcome to volt")
 name = str(input("please type your name"))
 id = str(input("please type your id"))
-if len(id)!= 9:
+if len(id)!= 9 and not id not in consts.VOL_LIST:
     id = str(input("wrong id, please type your id again"))
 
 skills_lst = []

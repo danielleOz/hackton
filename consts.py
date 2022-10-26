@@ -1,6 +1,7 @@
 SKILLS_LIST = ["cooking", "baking", "playing music", "painting", "singing",
                "computing", "dancing", "drawing", "sports training",
                "hairdressing"]
+VOL_LIST = []
 ASS_0 = {
     "name": "heart to heart",
     "skills": [SKILLS_LIST[5]],

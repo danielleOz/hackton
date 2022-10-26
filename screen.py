@@ -6,6 +6,10 @@ app.title("volt")
 app.geometry("700x700+700+100")
 app.configure(bg = "pink")
 
+sc_chose_ass=Tk()
+sc_chose_ass.title("show_assicon")
+sc_chose_ass.geometry("700x700+700+100")
+
 def print_stars():
  print ("**************")
 
